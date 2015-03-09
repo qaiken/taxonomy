@@ -1,11 +1,11 @@
 {
   "name": "BeesBeesBees",
   "version": "0.0.1",
-  "homepage": "https://github.com/hackreactor-labs/BeesBeesBees",
+  "homepage": "https://github.com/makersquare-labs/BeesBeesBees",
   "description": "Fun with pseudoclassical sub-classing in js (also bees)",
   "main": "test/index.html",
   "authors": [
-    "Hack Reactor"
+    "MakerSquare"
   ],
   "license": "COPYRIGHT",
   "private": true,
